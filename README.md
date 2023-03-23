@@ -15,5 +15,8 @@ step 2. create a `roles` table under `public` schema, and columns of `roles` as 
 
 step 3. generated Dao with command `./gradlew kaptKotlin`
 
-step 4. 
+step 4. run command `./gradlew bootRun`
+
+step 5. got to http://localhost:8080/data, then you will see the data from `roles` table.
+
 
