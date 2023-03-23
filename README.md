@@ -7,7 +7,7 @@ A Kotlin example to get data from Postgresql
 
 ## Before use
 
-step 1. set your database config in application.properties
+step 1. set your database config in application.properties, make sure you've already connected with database.
 
 step 2. create a `roles` table under `public` schema, and columns of `roles` as described below:
 
