@@ -15,7 +15,7 @@ java.sourceCompatibility = JavaVersion.VERSION_17
 
 repositories {
 	mavenCentral()
-	// need maven source
+	// Warning: you have to add the source
 }
 
 dependencies {

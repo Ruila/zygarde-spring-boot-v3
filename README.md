@@ -1,7 +1,11 @@
 # zygarde-spring-boot-v3
 
-+ [zygarde version](https://github.com/zygarde-projects/zygarde) v3.0.2
++ [zygarde version](https://github.com/zygarde-projects/zygarde) - v3.0.2
 + spring boot version - v3.0.4
+
+> **Warning**
+> :zygard v3 hasn't been pushed to public repository. You can create your own repository and push `v3` branch of zygarde to it.
+> Then you have to add source to `repositories` in the `build.gradle.kts`.
 
 A Kotlin example to get data from Postgresql
 
