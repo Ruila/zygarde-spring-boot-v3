@@ -1,6 +1,6 @@
 # zygarde-spring-boot-v3
 
-+ [zygarde version](https://github.com/zygarde-projects/zygarde) - v3.0.2
++ [zygarde version](https://github.com/zygarde-projects/zygarde/tree/v3) - v3.0.2
 + spring boot version - v3.0.4
 
 > **Warning**
